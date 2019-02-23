@@ -15,6 +15,9 @@ end
 
 # Use Puma as the app server
 gem 'carrierwave'
+gem 'devise'
+gem 'gravtastic'
+gem 'mini_magick', '4.8.0'
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
